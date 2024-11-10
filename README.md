@@ -1,6 +1,6 @@
 # 🎥 **Carros e Bicicletas - Exercício HTML**
 
-Página de produtos (carros e bicicletas) utilizando HTML e CSS, conforme os requisitos de um exercício. O objetivo é criar uma página simples que apresenta os produtos com preços e descrições, além de aplicar estilos para personalizar a aparência e organização dos elementos.
+O objetivo deste exercício foi fixar os conceitos de display: inline-block, block e inline, criando uma página simples de produtos (carros e bicicletas) com preços e descrições, utilizando HTML e CSS para organizar e estilizar os elementos.
 
 ## 📂 **Estrutura do Projeto**
 
